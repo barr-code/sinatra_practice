@@ -1,0 +1,1 @@
+Just a little exercise for myself to practice building a webpage using HTML, ERB, and Sinatra.
